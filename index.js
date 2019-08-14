@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays (happyHoliday === "Happy holidays!");{
+function happyHolidays (var);{
  return "Happy holidays!"
 }
 function happyHolidaysTo
