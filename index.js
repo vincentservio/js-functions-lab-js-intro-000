@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays (greeting)
+function happyHolidays (string)
  return "Happy holidays!"
 
 function happyHolidaysTo
